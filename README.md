@@ -1,5 +1,5 @@
 # DEMO IMAGE
-![Demo Image](demo.png =750x)
+![Demo Image](./demo.png =750x)
 
 # IMPORTANT COMMANDS
 firebase login 
