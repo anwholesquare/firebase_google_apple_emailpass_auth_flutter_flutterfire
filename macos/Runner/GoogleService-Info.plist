@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128343086777-lo0d43u57fbc6irsvp719ne025ok8a2g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128343086777-lo0d43u57fbc6irsvp719ne025ok8a2g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>128343086777-1k6smp1j32s1e7qup39t2fnfk7qonqde.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGlR91dmEBn7nNsm5JEL29LYVWV4WPcYI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128343086777</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.khandokeranan.googleAuth</string>
+	<key>PROJECT_ID</key>
+	<string>maya-music-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maya-music-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128343086777:ios:6715000cf6b7654b3c6d68</string>
+	<key>DATABASE_URL</key>
+	<string>https://maya-music-app.firebaseio.com</string>
+</dict>
+</plist>
