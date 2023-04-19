@@ -1,5 +1,5 @@
 # DEMO IMAGE
-![Demo Image](./demo.png =750x)
+![Demo Image](https://github.com/anwholesquare/firebase_google_apple_emailpass_auth_flutter_flutterfire/blob/main/demo.png?raw=true | height=350)
 
 # IMPORTANT COMMANDS
 firebase login 
